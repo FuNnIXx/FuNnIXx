@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @FuNnIXx
 - 👀 I’m interested in Programation / Dev
 - 🌱 I’m currently learning ALL
-- 💞️ I’m looking to collaborate on Papillon ⭐
 - ⚡ Fun fact: I don't know anything about codding... 💀
