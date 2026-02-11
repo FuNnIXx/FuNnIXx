@@ -2,3 +2,4 @@
 - 👀 I’m interested in Programation / Dev
 - 🌱 I’m currently learning ALL
 - ⚡ Fun fact: I don't know anything about codding... 💀
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,sql)](https://skillicons.dev)
